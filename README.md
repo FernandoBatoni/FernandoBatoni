@@ -3,11 +3,11 @@
 
 - 🖥️ I’m currently working for **AGX Software**
 
-- 🌱 I’m currently learning **Astro, node.js and typescript**
+- 🌱 I’m currently learning **Astro, Node.js and Typescript**
 
 - 👯 I’m looking to collaborate on **any front-end project**
 
-- 💬 Ask me about **Java, react and html**
+- 💬 Ask me about **Java, React and HTML**
 
 - 📫 How to reach me **nandobatoni22@gmail.com**
 
