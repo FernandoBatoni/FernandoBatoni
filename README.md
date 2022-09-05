@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, React and HTML**
 
-- 📫 How to reach me **nandobatoni22@gmail.com**
+- 📫 How to reach me: email: **nandobatoni22@gmail.com** phone: +55(15) 981366426
 
 - ⚡ Fun fact **I'm kinda small 🤡**
 
