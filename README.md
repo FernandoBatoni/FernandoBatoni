@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: E-mail: **nandobatoni22@gmail.com**   Phone: **+55 (15) 981366426**
 
-- ⚡ Fun fact **May your L's be many, and your b**** few**
+- ⚡ Fun fact **May your L's be many, and your b few**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
