@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandobatoni" alt="fernandobatoni" /></a> </p>
 
-- 🔭 I’m currently working on [project-web](https://github.com/FernandoBatoni/project-web)
-
 - 👨‍💻 All of my projects are available at [https://github.com/FernandoBatoni](https://github.com/FernandoBatoni)
 
 - 💬 Ask me about **react.js, typescript, javascript**
@@ -15,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFXHYyhAF4/e5JxhEDAMIbKPkRLFhFkyQ/view?utm_content=DAFXHYyhAF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFXHYyhAF4/e5JxhEDAMIbKPkRLFhFkyQ/view?utm_content=DAFXHYyhAF4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I work out regularly**
+- ⚡ Fun fact **I love to got to the gym 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
